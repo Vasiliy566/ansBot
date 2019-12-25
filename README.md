@@ -1,2 +1,1 @@
-# ansBot
-This bot shuld support student to pass online-test
+Скачан второй курс ГИ
