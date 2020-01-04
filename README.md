@@ -1,16 +1,19 @@
 Скачан второй курс ГИ
-## feature list:
-### 1. Send bot a question from any online-test
+## TODO:
+### 1. Platfor to help with online-test
 #### two ways to answer:
 #### A. using database - just search throught dataFromVSP folder and send the answer
 #### B. give with question an literature as lections conspects and 4 variants of answers
 #### the bot will search max question match in conspect and will return one answer. accurasitu is 87%
+##### *load database( search) on already-known sites
+##### *use ML for precision using lectures
+ 
+### 2. Platform to help students with programming
+#### two ways to start:
+#### A. Help me
+#### B. i can help to someone
+##### *make donations and pay for solvers
+##### *load problems to some platform (this git?), write tests and wait for pull request (heh)
 
 ## authors:
-### Isaev Vasily - model training to answer when not exist in database
-### Kulikov Nikita - develop bot logic with python
-### Ivanov Ilya - create database of answers, load it from other source and prepare for bot
-### Betuganov Adam - deploy and documentation
-
-## Class Diagram
-![Image description](methods.png)
+### Isaev Vasily 
